@@ -24,10 +24,10 @@ The project involves the following steps:
 
 To use the Diabetes Predictor app, follow these steps:
 
--- Install the required libraries mentioned in the requirements.txt file.
--- Clone the repository and navigate to the project directory.
--- Run the app.py file to start the Flask server.
--- Open the web app on your browser and enter the required inputs for prediction.
+- Install the required libraries mentioned in the requirements.txt file.
+- Clone the repository and navigate to the project directory.
+- Run the app.py file to start the Flask server.
+- Open the web app on your browser and enter the required inputs for prediction.
 
 ## Conclusion
 
