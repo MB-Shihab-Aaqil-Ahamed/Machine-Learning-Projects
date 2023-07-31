@@ -1,6 +1,6 @@
 # NLP Twitter Sentiment Analysis
 
-![NLP Twitter Sentiment Analysis Model](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/main/NLP%20Twitter%20Sentiment%20Analysis/Images/Sentiment.jpg)
+![NLP Twitter Sentiment Analysis Model](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/main/NLP%20Twitter%20Sentiment%20Analysis/Images/Model.jpg)
 
 data source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
 
