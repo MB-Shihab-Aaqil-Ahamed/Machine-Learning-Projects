@@ -1,6 +1,6 @@
 # NLP Twitter Sentiment Analysis
 
-data_source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
+data source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
 
 ## Goal
 The goal of this project is to build, train, test, and deploy an Artificial Intelligence (AI) model to predict sentiment from thousands of tweets. Sentiment prediction involves understanding people's feelings about a product or service.
