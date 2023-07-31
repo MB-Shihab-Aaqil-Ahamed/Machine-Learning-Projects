@@ -1,5 +1,7 @@
 # NLP Twitter Sentiment Analysis
 
+![NLP Twitter Sentiment Analysis Model](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/main/NLP%20Twitter%20Sentiment%20Analysis/Images/Sentiment.jpg)
+
 data source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
 
 ## Goal
@@ -22,6 +24,23 @@ Twitter tweets (text data)
 
 ### Output
 Sentiment (0 or 1)
+
+![Sentiment Analysis](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/main/NLP%20Twitter%20Sentiment%20Analysis/Images/Sentiment.jpg)
+
+### Hands-on Project: Twitter Sentiment Analysis
+
+This hands-on project on Twitter Sentiment Analysis is divided into the following tasks:
+
+2. **Task #1: Import Libraries and Datasets**
+3. **Task #2: Perform Exploratory Data Analysis**
+4. **Task #3: Plot the Word Cloud**
+5. **Task #4: Perform Data Cleaning - Removing Punctuation**
+6. **Task #5: Perform Data Cleaning - Remove Stop Words**
+7. **Task #6: Perform Count Vectorization (Tokenization)**
+8. **Task #7: Create a Pipeline to Remove Stop Words, Punctuation, and Perform Tokenization**
+9. **Task #8: Understand the Theory and Intuition behind Naive Bayes Classifiers**
+10. **Task #9: Train a Naive Bayes Classifier**
+11. **Task #10: Assess Trained Model Performance**
 
 ## How it Works
 - Natural language processors (NLP) work by converting words (text) into numbers.
