@@ -29,7 +29,7 @@ Sentiment (0 or 1)
 
 ### Hands-on Project: Twitter Sentiment Analysis
 
-This hands-on project on Twitter Sentiment Analysis is divided into the following tasks:
+This project on Twitter Sentiment Analysis is divided into the following tasks:
 
 1. **Task #1: Import Libraries and Datasets**
 2. **Task #2: Perform Exploratory Data Analysis**
