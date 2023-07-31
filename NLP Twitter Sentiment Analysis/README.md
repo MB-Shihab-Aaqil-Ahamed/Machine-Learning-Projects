@@ -1,6 +1,6 @@
 # NLP Twitter Sentiment Analysis
 
-![NLP Twitter Sentiment Analysis](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/main/NLP%20Twitter%20Sentiment%20Analysis/Images/Model.jpg)
+![NLP Twitter Sentiment Analysis](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/master/NLP%20Twitter%20Sentiment%20Analysis/Images/Model.jpg)
 
 data source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
 
@@ -25,7 +25,7 @@ Twitter tweets (text data)
 ### Output
 Sentiment (0 or 1)
 
-![Sentiment Analysis](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/main/NLP%20Twitter%20Sentiment%20Analysis/Images/Sentiment.jpg)
+![Sentiment Analysis](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/master/NLP%20Twitter%20Sentiment%20Analysis/Images/Sentiment.jpg)
 
 ### Hands-on Project: Twitter Sentiment Analysis
 
