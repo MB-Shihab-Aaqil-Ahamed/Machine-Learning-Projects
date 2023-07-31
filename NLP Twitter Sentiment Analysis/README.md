@@ -31,16 +31,16 @@ Sentiment (0 or 1)
 
 This hands-on project on Twitter Sentiment Analysis is divided into the following tasks:
 
-2. **Task #1: Import Libraries and Datasets**
-3. **Task #2: Perform Exploratory Data Analysis**
-4. **Task #3: Plot the Word Cloud**
-5. **Task #4: Perform Data Cleaning - Removing Punctuation**
-6. **Task #5: Perform Data Cleaning - Remove Stop Words**
-7. **Task #6: Perform Count Vectorization (Tokenization)**
-8. **Task #7: Create a Pipeline to Remove Stop Words, Punctuation, and Perform Tokenization**
-9. **Task #8: Understand the Theory and Intuition behind Naive Bayes Classifiers**
-10. **Task #9: Train a Naive Bayes Classifier**
-11. **Task #10: Assess Trained Model Performance**
+1. **Task #1: Import Libraries and Datasets**
+2. **Task #2: Perform Exploratory Data Analysis**
+3. **Task #3: Plot the Word Cloud**
+4. **Task #4: Perform Data Cleaning - Removing Punctuation**
+5. **Task #5: Perform Data Cleaning - Remove Stop Words**
+6. **Task #6: Perform Count Vectorization (Tokenization)**
+7. **Task #7: Create a Pipeline to Remove Stop Words, Punctuation, and Perform Tokenization**
+8. **Task #8: Understand the Theory and Intuition behind Naive Bayes Classifiers**
+9. **Task #9: Train a Naive Bayes Classifier**
+10. **Task #10: Assess Trained Model Performance**
 
 ## How it Works
 - Natural language processors (NLP) work by converting words (text) into numbers.
