@@ -1,7 +1,9 @@
-# University Admission Prediction Using Multiple Linear Regression
+# University Admission Prediction - Multiple Linear Regression
 
-data source: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions 
+![University Admission Prediction](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/blob/master/University%20Admission%20Prediction/Images/University_admission.jpg)
 
+Data Source: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions 
+Photo Credit: https://www.pexels.com/photo/newly-graduated-people-wearing-black-academy-gowns-throwing-hats-up-in-the-air-267885/
 ## Project Overview
 In this project, we aim to build a regression model to predict the chance of admission into a particular university based on the student's profile. The inputs or features for the model include GRE Scores, TOEFL Scores, University Rating, Statement of Purpose (SOP), Letter of Recommendation (LOR) Strength, Undergraduate GPA, and Research Experience (0 or 1). The output of the model will be the chance of admission, which will be a value ranging from 0 to 1.
 
