@@ -1,8 +1,16 @@
 # Machine Learning Projects
 
-![GitHub stars](https://img.shields.io/github/stars/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=social)
+<div align="center" markdown="2">
+
+[![GitHub repo forks](https://img.shields.io/github/forks/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/network)
+[![GitHub repo stars](https://img.shields.io/github/stars/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/stargazers)
+[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/graphs/contributors)
+[![GitHub repo watchers](https://img.shields.io/github/watchers/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/watchers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/MB-Shihab-Aaqil-Ahamed/Machine-Learning-Projects/archive/refs/heads/main.zip)
+
+</div>
+
+A beginner's guide to Machine Learning with hands-on projects and examples.
 
 ## Introduction
 A collection of attractive and insightful Machine Learning projects for anyone interested in diving into the exciting world of data science and AI.
